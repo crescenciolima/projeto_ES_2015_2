@@ -2,6 +2,8 @@
 **A SPLArch** é uma ferramenta voltada para a documentação de arquitetura do software desenvolvida em Django.<br> 
 **Pacotes Utilizados →** Para realizar a instalaçãos dos pacotes é disponibilizado um requiremenst.txt, uma vez com o virtualenv instalado será necessário somente " pip install -r /path/to/requirements.txt "<br>
 
+License:<a href="http://www.gnu.org/licenses/gpl.html" target="blank"> GNU GPL v3</a><br>
+Content License: <a href="https://creativecommons.org/licenses/by/3.0/" target = "blank">Creative Commons 3.0 BY</a>
 
 #Engenharia de Software
 **Participantes :**<br>
@@ -75,3 +77,8 @@ Contributors
 ---------------------------
 Crescencio Lima @cretchas, Cremildo Lima @juin, Airton Ribeiro @niwdm, Joabe Pinheiro @joabepinheiro, Fagner Santos @fagnerpsantos, Randler @randler,
 Ramon @ramonmsp, Cátia Oliveira, Mateus, Leonardo Aguiar @leonardaguiar, Italo Miranda @italo-miranda
+
+License
+---------------------------
+License:<a href="http://www.gnu.org/licenses/gpl.html" target="blank"> GNU GPL v3</a><br>
+Content License: <a href="https://creativecommons.org/licenses/by/3.0/" target = "blank">Creative Commons 3.0 BY</a>
